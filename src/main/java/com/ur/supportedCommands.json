@@ -1,0 +1,62 @@
+[
+  {
+    "name": "WAIT_ROBOT_RELEASE",
+    "code": "10",
+    "type": "INFO",
+    "hasFeedback": true
+  },
+  {
+    "name": "WAIT_USER_MOVE",
+    "code": "11",
+    "type": "INFO",
+    "hasFeedback": true
+  },
+  {
+    "name": "WAIT_START_NEW_GAME",
+    "code": "12",
+    "type": "INFO",
+    "hasFeedback": true
+  },
+  {
+    "name": "GET_MARKER",
+    "code": "60",
+    "type": "ROBOT",
+    "hasFeedback": false
+  },
+  {
+    "name": "PUT_MARKER",
+    "code": "61",
+    "type": "ROBOT",
+    "hasFeedback": false
+  },
+  {
+    "name": "GO_HOME",
+    "code": "62",
+    "type": "ROBOT",
+    "hasFeedback": false
+  },
+  {
+    "name": "DRAW_FIELD",
+    "code": "63",
+    "type": "ROBOT",
+    "hasFeedback": false
+  },
+  {
+    "name": "MAKE_MOVE",
+    "code": "64",
+    "type": "ROBOT",
+    "hasFeedback": false
+  },
+  {
+    "name": "DRAW_WIN_LINE",
+    "code": "65",
+    "type": "ROBOT",
+    "hasFeedback": false
+  },
+  {
+    "name": "GO_READY_TO_DRAW_POS",
+    "code": "66",
+    "type": "ROBOT",
+    "hasFeedback": false
+  }
+]

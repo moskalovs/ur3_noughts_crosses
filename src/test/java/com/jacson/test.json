@@ -1,0 +1,20 @@
+[
+  {
+    "name": "WAIT_ROBOT_RELEASE",
+    "code": "10",
+    "type": "INFO",
+    "hasFeedback": true
+  },
+  {
+    "name": "GET_MARKER",
+    "code": "60",
+    "type": "ROBOT",
+    "hasFeedback": false
+  },
+  {
+    "name": "PUT_MARKER",
+    "code": "61",
+    "type": "ROBOT",
+    "hasFeedback": false
+  }
+]
